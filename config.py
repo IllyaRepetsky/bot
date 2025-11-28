@@ -3,7 +3,7 @@ from datetime import datetime
 
 class Config:
     # Отримайте токен бота від @BotFather в Telegram
-    BOT_TOKEN = "8390304087:AAF-jZ0TrrWAlSpvJrZ3GOyR19klLTAV-0o"
+    BOT_TOKEN = "8390304087:AAF8jQ8S-ogWRLczhYzvmZ199Fvisuv6PN4"
     
     # Web Panel Configuration
     SECRET_KEY = "your-very-secure-secret-key-change-this-12345"
@@ -75,3 +75,4 @@ class Config:
     
     # Заблоковані IP адреси
     BANNED_IPS = []
+
